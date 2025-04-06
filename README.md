@@ -1,3 +1,3 @@
 This is my personal portfolio.
 
-Click here https://github.com/ABoBo555/ABoBo555.github.io/
+Click here https://ABoBo555.github.io/
