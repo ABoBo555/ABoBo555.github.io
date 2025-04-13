@@ -617,8 +617,8 @@ ul li {
 }
 
 .section-separator {
-  padding: 60px 0;
   padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .home-section-separator {
