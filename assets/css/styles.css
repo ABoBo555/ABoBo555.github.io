@@ -605,6 +605,15 @@ ul li {
  *  Section Background Size Property
  * ---------------------------------
  */
+
+ /* project window paragraph text justify */
+.mh-portfolio-modal p,
+.mh-portfolio-modal ul,
+.mh-portfolio-modal ol {
+    text-align: justify;
+}
+
+
 .bg-cover {
   background-size: cover;
   background-position: 50% 50%;
